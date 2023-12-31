@@ -1,7 +1,7 @@
 # Final project - Programming for Data Science
 
 - Lập trình Khoa học dữ liệu 
-- Học Kì I - Năm học: 2023 -2024
+- Học kì I - Năm học: 2023 -2024
 
 ## Thành viên
 | MSSV  | Họ tên | Email |
