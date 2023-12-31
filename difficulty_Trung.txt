@@ -1,0 +1,1 @@
+Những khó khăn trong lúc phân tích dữ liệu để trả lời câu hỏi: chủ yếu đến từ việc phải xác định đúng các yếu tố cần thiết để trả lời câu hỏi mà mình đặt ra, cũng như kiểm tra xem những yếu tố đó đã đủ để thỏa mãn câu hỏi chưa, nếu chưa phải đặt câu hỏi khác cho phù hợp hơn với bộ dữ liệu
