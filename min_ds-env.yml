@@ -1,0 +1,11 @@
+name: min_ds-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10.8
+  - matplotlib=3.7.1
+  - numpy=1.24.1
+  - pandas=1.5.3
+  - seaborn=0.13.0
+  - notebook=7.0.6
